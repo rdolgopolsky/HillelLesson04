@@ -1,7 +1,7 @@
 let i = 0;
 
 do {
-	str = prompt(`Enter "break" to stop, "continue" to skip alert`);
+	const str = prompt(`Enter "break" to stop, "continue" to skip alert`);
 
 	i++;
 
